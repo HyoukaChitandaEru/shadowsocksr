@@ -1,4 +1,7 @@
 ShadowsocksR
+此项目所有源代码来自ToyoDAdoubi，仅作学习和备份使用，不用于其他目的，如需删除，请联系我。
+
+此项目所有源代码来自ToyoDAdoubi，仅作学习和备份使用，不用于其他目的，如需删除，请联系我。
 ===========
 
 [![Build Status]][Travis CI]
